@@ -1,4 +1,4 @@
-hello git!
+hello dear!(from brach master)
 12345
 ssh
 меняем для merge no fast-forward
