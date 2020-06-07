@@ -1,4 +1,4 @@
-hello git!
+hello bitch!(from branch add-feature1)
 12345
 ssh
 меняем для merge no fast-forward
