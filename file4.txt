@@ -1,1 +1,2 @@
-hello from add-feature2 branch
+hello from user test_project from add-feature2 branch
+another line from test_project
